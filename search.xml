@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>欢迎！</title>
-    <url>/2024/02/05/%E6%AC%A2%E8%BF%8E%EF%BC%81/</url>
+    <title>为什么搭建这个博客</title>
+    <url>/2024/02/06/%E6%B5%8B%E8%AF%95-1/</url>
     <content><![CDATA[<ul>
-<li>欢迎来到LiuranBlogs</li>
-<li>流然的个人博客！</li>
+<li>我其实很久之前就像搭建个人网站了，但是奈何手里没钱买不起服务器，只能一拖再拖</li>
+<li>从2022年的年底左右，我通过苦力怕论坛加入了AC交流群（说白了就是4-5人的小群，AC全称AMX Craft，是KN的Minecraft作品）</li>
+<li>在里面认识了科家（他的博客：<a class="link"   href="https://kjblogs.sdos.top/%EF%BC%89" >https://kjblogs.sdos.top/） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>虽然跟科家之前整过网盘&#x2F;博客什么的</li>
+<li>但直到2023年底，我用钱在星辰云买了虚拟主机，至此我才真正的开始搭建博客</li>
+<li>最开始用的是typecho但是因为Joe主题的问题导致bug多多，所以换成了WordPress</li>
+<li>在虚拟主机还有近1个月的时间的情况下我为什么要选择静态博客呢？</li>
+<li>这就要从几个星期前说起了</li>
+<li>原本我用的是WordPress，但因为分类突然出问题后我换成了typecho</li>
+<li>但typecho功能少，主题难看用了一段时间后我选择换回WordPress，我手贱清理数据库的时候把数据库玩坏了，导致无法进入网站</li>
+<li>科家他一直使用的是hexo，主题也很不错，所以我就用GitHub搭建了这个网站，说了有点多了</li>
+<li>最后这是流然博客，会分享一些乱七八糟的东西</li>
 </ul>
 ]]></content>
   </entry>
