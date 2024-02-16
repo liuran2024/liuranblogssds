@@ -22,4 +22,43 @@
         <category>闲谈</category>
       </categories>
   </entry>
+  <entry>
+    <title>记一次真我Q3刷机</title>
+    <url>/2024/02/16/%E8%AE%B0%E4%B8%80%E6%AC%A1%E7%9C%9F%E6%88%91Q3%E5%88%B7%E6%9C%BA/</url>
+    <content><![CDATA[<ul>
+<li>我家全部用的都是OPPO以及旗下的真我</li>
+<li>由科家经常给我炫耀root后的手机功能，让我一直有一个想root想法</li>
+<li>终于在2023年11月份，科家又一次跟我炫耀，我忍不了了，在酷安找到教程准备root</li>
+<li>解锁了bl后，用酷安教程里的文件刷入了TWRP，用科家发的面具文件刷入成砖，好在刷回了原版boot和官方rec才得以救砖</li>
+<li>第一次root也就这样子失败了</li>
+<li>到了2023年的12月份下旬，我又准备给手机开root</li>
+<li>这回作死到底了，首先为了解放双手用了教程里的一键root然后开始无限重启，我又进了fastboot里刷上了TWRP，用面具官网的apk转换成的zip刷入，这样子还是不行，我又刷回了官方REC格式化数据分区后终于进入了系统</li>
+<li>但是在系统里我却连接不上WiFi，那是我还没有意识到是没有还原boot的问题😅😅😅，就自顾自的回锁了BL，导致进不去fastboot手机彻底成砖，我尝试过9008救砖，但是绿厂的手机9008被需要授权才可以刷机，其他软件也不行，无奈就用上了OPPO R11这机子，这机子的包还挺多的，说的多了（）</li>
+<li>过完年后我在OPPO R11的交流群里认识了OPPO公司里的（官方骗钱😂）然后花了30让他9008授权刷了系统又阴差阳错的加入了真我Q3交流群</li>
+<li>第二次root也就结束了</li>
+<li>第三次也就是2月15号，我在群里进行root但是不出所料的又砖了，好在这回没有给BL上锁，下载了一个朋友提供的线刷包（如果有时间的话会写一个教程），线刷了a14的系统，并且刷入阿尔法面具，但我想用Realme UI3.0，更新后root没了，刷入TWRP刷面具二次成砖，然后a14的线刷包咋也刷不上，又换成了a17在多次讯问作者后，刷上了a17用上了阿尔法面具并且隐藏</li>
+<li>最后放上图片<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/1.jpg"
+                      alt="Alt text"
+                ></li>
+</ul>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/2.jpg"
+                      alt="Alt text"
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/3.jpg"
+                      alt="Alt text"
+                ></p>
+<ul>
+<li>最后的最后提醒大家一句：玩机不买蓝绿双厂，因为绿厂砖了没有fastboot只能9008，9008还有授权，20-150不等&#x2F;蓝厂就解不了BL</li>
+</ul>
+]]></content>
+  </entry>
 </search>
